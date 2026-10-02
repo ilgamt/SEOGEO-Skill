@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO audit"
+  short_description: "SEO-аудит Google, Яндекса и AI-видимости"
+  default_prompt: "Use $seo-audit to audit a website and prioritize evidenced SEO findings."
